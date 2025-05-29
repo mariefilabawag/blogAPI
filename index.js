@@ -9,7 +9,7 @@ const corsOptions = {
         "http://localhost:3000",
         "http://localhost:8000",
         "https://blogapi-4jov.onrender.com",
-        "https://blog-client-eight-blond.vercel.app/",
+        "https://blog-client-eight-blond.vercel.app/", 
         "https://blog-client-git-master-mariefils-projects.vercel.app/",
         "https://blog-client-j61dqd09y-mariefils-projects.vercel.app/"
     ],
